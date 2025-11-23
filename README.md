@@ -24,4 +24,8 @@ La meta final es **detectar proyectos prometedores** y orientar la inversión en
 | **Estadística** | NumPy, SciPy (para pruebas estadísticas) | Cálculo de media, varianza, desviación estándar y la realización de **pruebas $t$ de Student** para la validación de hipótesis. |
 | **Visualización** | Matplotlib, Seaborn | Creación de diagramas de caja (boxplots), histogramas y gráficos de dispersión para analizar distribuciones de ventas, tendencias por plataforma y correlaciones con las reseñas. |
 
-¡Buena suerte!
+---
+
+## Visualizacion del proyecto
+
+* Para visualizar el proyecto de la mejor manera, abrir el archivo Proyecto_integrado-Ventas_Videojuegos.py que ejecutara el archivo en un jupyter notebook.
